@@ -1,0 +1,4 @@
+apiuser
+P@ssw0rd
+Worker-02
+3
